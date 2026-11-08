@@ -11,3 +11,5 @@ With Student Assistant, you can do a lot of useful things:
 • and lastly, a built-in AI companion ready to help your needs of studying and anything else...
 
 Log in or create an account with Google's Gmail (currently supported).
+
+Built with AI, for the future of innovative works.
